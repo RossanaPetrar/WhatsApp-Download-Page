@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.top-navbar {
+  background-color: #128c7e;
+}
+
+.nav-item {
+  padding: 0 1rem 0 1rem;
+}
+
+.phone-button {
+  width: 7rem;
+  background-color: #128c7e;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  border-radius: 40px;
+  box-shadow: none;
+  border: none;
+}
+
+.links {
+  text-decoration: none;
+  color: #56bdeb;
+}
+
+.cont-left {
+  background-color: #e7f0e4;
+}
+
+.cont-right {
+  background-color: #fcf2c6;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+}
+
+.laptop {
+  width: 30rem;
+  object-fit: contain;
+}
+
+.windows-button {
+  width: 16rem;
+  background-color: #128c7e;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  border-radius: 40px;
+  box-shadow: none;
+  border: none;
+}
+
+.get-it-microsoft {
+  width: 10rem;
+  object-fit: contain;
+}
+
+.footer-nav {
+  background-color: #273443;
+}
+
+.footer-links {
+  text-decoration: none;
+}
+
+.footer-copy {
+  background-color: #1c1e21;
+  padding: 17rem;
+}
+
+.footer-privacy {
+  text-decoration: none;
+}
